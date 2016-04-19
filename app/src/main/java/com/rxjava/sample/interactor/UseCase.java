@@ -1,7 +1,7 @@
 package com.rxjava.sample.interactor;
 
-import com.rxjava.sample.executor.PostExecutionThread;
-import com.rxjava.sample.executor.ThreadExecutor;
+import com.rxjava.sample.Utils.executor.PostExecutionThread;
+import com.rxjava.sample.Utils.executor.ThreadExecutor;
 
 import rx.Observable;
 import rx.Subscriber;
